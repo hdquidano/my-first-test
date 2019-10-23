@@ -1,2 +1,2 @@
 # my-first-test
-GitHub first test
+First test with GitHub
